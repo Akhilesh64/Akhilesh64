@@ -9,6 +9,7 @@
 💬 - Feel free to ping me for any queries or work related stuff @:
 
 📫 - akhilesharma47@gmail.com
+
 📫 - https://www.linkedin.com/in/akhileshsharma47/
 <!--
 **Akhilesh64/Akhilesh64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
