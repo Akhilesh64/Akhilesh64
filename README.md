@@ -4,8 +4,6 @@
 
 🔭 - My main area of work and focus is currently in Deep Learning and Computer Vision.
 
-🌱 - I am currently learning various deep learning techniques and algorithms through online platforms like Coursera and Udacity.
-
 💬 - Feel free to ping me for any queries or work related stuff @:
 
 📫 - akhilesharma47@gmail.com
