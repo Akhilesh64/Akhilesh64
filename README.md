@@ -9,6 +9,8 @@
 📫 - akhilesharma47@gmail.com
 
 📫 - https://www.linkedin.com/in/akhileshsharma47/
+
+![Visitor Count](https://profile-counter.glitch.me/{Akhilesh64}/count.svg)
 <!--
 **Akhilesh64/Akhilesh64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
