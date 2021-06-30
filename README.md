@@ -8,7 +8,7 @@
 
 📫 - akhilesharma47@gmail.com
 
-📫 - https://www.linkedin.com/in/akhileshsharma47/
+📫 - https://www.linkedin.com/in/aksh47/
 
 ![Visitor Count](https://profile-counter.glitch.me/{Akhilesh64}/count.svg)
 <!--
